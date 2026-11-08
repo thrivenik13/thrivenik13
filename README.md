@@ -1,6 +1,6 @@
 # 👋 Hi, I'm K. Thriveni  
 
-## 🚀 AI & Data Science Engineer | Machine Learning Developer  
+## 🚀 AI & Data Science Engineer |  
 
 I build **end-to-end AI systems** using Python, Machine Learning, and Data Science to solve real-world problems with scalable solutions.
 
